@@ -1,7 +1,11 @@
 ## Hi there 👋
 
+I am a pharmacist and also studying information and communication technology.
+
 <!--
 **hennakauppinen/hennakauppinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![dog]("C:\Users\Henna\Sample\IMG_20250905_195054.jpg") ei toimi
 
 Here are some ideas to get you started:
 
